@@ -1,0 +1,23 @@
+Contestant,Age,Hometown,Occupation,Affiliation,fname,lname,Finish,Episode,Inferred_Gender,Inferred_Ethnicity,Season,player_id
+Aubrey Emerson,67,"Loughborough, England",Retired shop owner,Faithful,Aubrey,Emerson,Murdered,2,male,White,2,2_Aubrey Emerson
+Sonja Clarke,66,"Poulton-le-Fylde, England",Volunteer business mentor,Faithful,Sonja,Clarke,Banished,2,female,White,2,2_Sonja Clarke
+Kyra Johnson,21,"Kent, England",Apprentice economist,Faithful,Kyra,Johnson,Murdered,3,female,Black,2,2_Kyra Johnson
+Brian Davidson,33,"Glasgow, Scotland",Photographer,Faithful,Brian,Davidson,Banished,4,male,White,2,2_Brian Davidson
+Ash Bibi,45,"London, England",Events coordinator,Traitor,Ash,Bibi,Banished,5,female,Asian/IndianSubContinent,2,2_Ash Bibi
+Meg Corrick,22,"Hereford, England",Illustrator,Faithful,Meg,Corrick,Murdered,5,female,White,2,2_Meg Corrick
+Jonny Holloway,31,"Luton, England",Ex-military,Faithful,Jonny,Holloway,Banished,5,male,White,2,2_Jonny Holloway
+Tracey Griffin,58,"Inverness, Scotland",Sonographer & clairvoyant,Faithful,Tracey,Griffin,Murdered,6,female,White,2,2_Tracey Griffin
+Anthony Mathurin,44,"Birmingham, England",Chess coach,Faithful,Anthony,Mathurin,Banished,6,male,Black,2,2_Anthony Mathurin
+Diane Carson,63,"Lytham St Annes, England",Retired teacher,Faithful,Diane,Carson,Murdered,7,female,White,2,2_Diane Carson
+Miles Asteri,37,"Worcester, England",Veterinary nurse,Traitor,Miles,Asteri,Banished,7,male,Black,2,2_Miles Asteri
+Paul Gorton,36,"Manchester, England",Business manager,Traitor,Paul,Gorton,Banished,8,male,White,2,2_Paul Gorton
+Charlie Bees,34,"Bristol, England",Mental health area manager,Faithful,Charlie,Bees,Murdered,9,female,White,2,2_Charlie Bees
+Charlotte Chilton,32,"Atherstone, England",Recruitment manager,Faithful,Charlotte,Chilton,Banished,9,female,White,2,2_Charlotte Chilton
+Ross Carson,28,"Lytham St Annes, England",Video director,Traitor,Ross,Carson,Banished,10,male,White,2,2_Ross Carson
+Zack Davies,27,"London, England",Parliamentary affairs advisor,Faithful,Zack,Davies,Murdered,11,male,White,2,2_Zack Davies
+Jasmine Boatswain,26,"London, England",Sales executive,Faithful,Jasmine,Boatswain,Banished,11,female,Black,2,2_Jasmine Boatswain
+Evie Morrison,29,"Inverness, Scotland",Veterinary nurse,Faithful,Evie,Morrison,Banished,12,female,White,2,2_Evie Morrison
+Andrew Jenkins,45,"Talbot Green, Wales",Insurance broker,Traitor,Andrew,Jenkins,Banished,12,male,White,2,2_Andrew Jenkins
+Jaz Singh,30,"Manchester, England",National account manager,Faithful,Jaz,Singh,Banished,12,male,Asian/IndianSubContinent,2,2_Jaz Singh
+Mollie Pearce,21,"Bristol, England",Disability model,Faithful,Mollie,Pearce,Runner-up,12,female,White,2,2_Mollie Pearce
+Harry Clark,22,"Slough, England",British army engineer,Traitor,Harry,Clark,Winner,12,male,White,2,2_Harry Clark

@@ -1,0 +1,221 @@
+player,target,round_table,Season
+1_Aaron Evans,1_Imran Nasim,1,1
+1_Aaron Evans,1_Imran Nasim,2,1
+1_Aaron Evans,1_Alex Gray,3,1
+1_Aaron Evans,1_Tom Elderfield,4,1
+1_Aaron Evans,1_Rayan Rachedi,5,1
+1_Aaron Evans,"1_Madelyn ""Maddy"" Smedley",6,1
+1_Aaron Evans,1_Theo Mayne,7,1
+1_Aaron Evans,"1_Madelyn ""Maddy"" Smedley",8,1
+1_Aaron Evans,"1_Madelyn ""Maddy"" Smedley",9,1
+1_Aaron Evans,1_Kieran Tompsett,10,1
+1_Hannah Byczkowski,1_Nicky Wilding,1,1
+1_Hannah Byczkowski,1_Imran Nasim,2,1
+1_Hannah Byczkowski,1_Alex Gray,3,1
+1_Hannah Byczkowski,1_Alex Gray,4,1
+1_Hannah Byczkowski,1_Alyssa Chan,5,1
+1_Hannah Byczkowski,1_Rayan Rachedi,6,1
+1_Hannah Byczkowski,"1_Madelyn ""Maddy"" Smedley",7,1
+1_Hannah Byczkowski,1_Amanda Lovett,8,1
+1_Hannah Byczkowski,"1_Madelyn ""Maddy"" Smedley",9,1
+1_Hannah Byczkowski,1_Kieran Tompsett,10,1
+1_Meryl Williams,1_Nicky Wilding,1,1
+1_Meryl Williams,1_Imran Nasim,2,1
+1_Meryl Williams,1_Ivan Brett,3,1
+1_Meryl Williams,1_Tom Elderfield,4,1
+1_Meryl Williams,"1_Madelyn ""Maddy"" Smedley",5,1
+1_Meryl Williams,1_Rayan Rachedi,6,1
+1_Meryl Williams,"1_Madelyn ""Maddy"" Smedley",7,1
+1_Meryl Williams,1_Amanda Lovett,8,1
+1_Meryl Williams,"1_Madelyn ""Maddy"" Smedley",9,1
+1_Meryl Williams,1_Kieran Tompsett,10,1
+"1_Wilfred ""Wilf"" Webster",1_Nicky Wilding,1,1
+"1_Wilfred ""Wilf"" Webster",1_Aaron Evans,2,1
+"1_Wilfred ""Wilf"" Webster",1_Ivan Brett,3,1
+"1_Wilfred ""Wilf"" Webster",1_Alex Gray,4,1
+"1_Wilfred ""Wilf"" Webster",1_Alyssa Chan,5,1
+"1_Wilfred ""Wilf"" Webster","1_Madelyn ""Maddy"" Smedley",6,1
+"1_Wilfred ""Wilf"" Webster",1_Theo Mayne,7,1
+"1_Wilfred ""Wilf"" Webster",1_Amanda Lovett,8,1
+"1_Wilfred ""Wilf"" Webster","1_Madelyn ""Maddy"" Smedley",9,1
+"1_Wilfred ""Wilf"" Webster",1_Kieran Tompsett,10,1
+1_Kieran Tompsett,Eliminated,1,1
+1_Kieran Tompsett,Eliminated,2,1
+1_Kieran Tompsett,Eliminated,3,1
+1_Kieran Tompsett,No vote,4,1
+1_Kieran Tompsett,"1_Wilfred ""Wilf"" Webster",5,1
+1_Kieran Tompsett,1_Rayan Rachedi,6,1
+1_Kieran Tompsett,1_Theo Mayne,7,1
+1_Kieran Tompsett,1_Amanda Lovett,8,1
+1_Kieran Tompsett,1_Meryl Williams,9,1
+1_Kieran Tompsett,"1_Wilfred ""Wilf"" Webster",10,1
+"1_Madelyn ""Maddy"" Smedley",1_Nicky Wilding,1,1
+"1_Madelyn ""Maddy"" Smedley",1_Aaron Evans,2,1
+"1_Madelyn ""Maddy"" Smedley","1_Wilfred ""Wilf"" Webster",3,1
+"1_Madelyn ""Maddy"" Smedley","1_Wilfred ""Wilf"" Webster",4,1
+"1_Madelyn ""Maddy"" Smedley","1_Wilfred ""Wilf"" Webster",5,1
+"1_Madelyn ""Maddy"" Smedley",1_Meryl Williams,6,1
+"1_Madelyn ""Maddy"" Smedley",1_Aaron Evans,7,1
+"1_Madelyn ""Maddy"" Smedley",1_Aaron Evans,8,1
+"1_Madelyn ""Maddy"" Smedley",1_Meryl Williams,9,1
+"1_Madelyn ""Maddy"" Smedley",Banished(Episode 11),10,1
+1_Andrea Addison,1_Nicky Wilding,1,1
+1_Andrea Addison,1_Aaron Evans,2,1
+1_Andrea Addison,1_Hannah Byczkowski,3,1
+1_Andrea Addison,1_Tom Elderfield,4,1
+1_Andrea Addison,1_Alyssa Chan,5,1
+1_Andrea Addison,1_Rayan Rachedi,6,1
+1_Andrea Addison,1_Theo Mayne,7,1
+1_Andrea Addison,1_Hannah Byczkowski,8,1
+1_Andrea Addison,Murdered(Episode 11),9,1
+1_Andrea Addison,Murdered(Episode 11),10,1
+1_Amanda Lovett,1_Nicky Wilding,1,1
+1_Amanda Lovett,1_Imran Nasim,2,1
+1_Amanda Lovett,1_Ivan Brett,3,1
+1_Amanda Lovett,1_Alex Gray,4,1
+1_Amanda Lovett,1_Alyssa Chan,5,1
+1_Amanda Lovett,1_Rayan Rachedi,6,1
+1_Amanda Lovett,1_Theo Mayne,7,1
+1_Amanda Lovett,"1_Madelyn ""Maddy"" Smedley",8,1
+1_Amanda Lovett,Banished(Episode 10),9,1
+1_Amanda Lovett,Banished(Episode 10),10,1
+1_Fay Greaves,1_Nicky Wilding,1,1
+1_Fay Greaves,1_Imran Nasim,2,1
+1_Fay Greaves,1_Alex Gray,3,1
+1_Fay Greaves,1_Tom Elderfield,4,1
+1_Fay Greaves,1_Rayan Rachedi,5,1
+1_Fay Greaves,"1_Madelyn ""Maddy"" Smedley",6,1
+1_Fay Greaves,1_Theo Mayne,7,1
+1_Fay Greaves,Murdered(Episode 10),8,1
+1_Fay Greaves,Murdered(Episode 10),9,1
+1_Fay Greaves,Murdered(Episode 10),10,1
+1_Theo Mayne,1_Nicky Wilding,1,1
+1_Theo Mayne,1_Imran Nasim,2,1
+1_Theo Mayne,1_Alex Gray,3,1
+1_Theo Mayne,1_Tom Elderfield,4,1
+1_Theo Mayne,"1_Wilfred ""Wilf"" Webster",5,1
+1_Theo Mayne,1_Rayan Rachedi,6,1
+1_Theo Mayne,1_Aaron Evans,7,1
+1_Theo Mayne,Banished(Episode 9),8,1
+1_Theo Mayne,Banished(Episode 9),9,1
+1_Theo Mayne,Banished(Episode 9),10,1
+1_Amos Ogunkoya,Eliminated,1,1
+1_Amos Ogunkoya,Eliminated,2,1
+1_Amos Ogunkoya,Eliminated,3,1
+1_Amos Ogunkoya,No vote,4,1
+1_Amos Ogunkoya,"1_Wilfred ""Wilf"" Webster",5,1
+1_Amos Ogunkoya,1_Rayan Rachedi,6,1
+1_Amos Ogunkoya,Murdered(Episode 9),7,1
+1_Amos Ogunkoya,Murdered(Episode 9),8,1
+1_Amos Ogunkoya,Murdered(Episode 9),9,1
+1_Amos Ogunkoya,Murdered(Episode 9),10,1
+1_Alex Gray,1_Nicky Wilding,1,1
+1_Alex Gray,1_Imran Nasim,2,1
+1_Alex Gray,1_Ivan Brett,3,1
+1_Alex Gray,1_Rayan Rachedi,4,1
+1_Alex Gray,1_Alyssa Chan,5,1
+1_Alex Gray,1_Aaron Evans,6,1
+1_Alex Gray,Murdered(Episode 8),7,1
+1_Alex Gray,Murdered(Episode 8),8,1
+1_Alex Gray,Murdered(Episode 8),9,1
+1_Alex Gray,Murdered(Episode 8),10,1
+1_Rayan Rachedi,1_Nicky Wilding,1,1
+1_Rayan Rachedi,1_Aaron Evans,2,1
+1_Rayan Rachedi,1_Alex Gray,3,1
+1_Rayan Rachedi,1_Tom Elderfield,4,1
+1_Rayan Rachedi,1_Alyssa Chan,5,1
+1_Rayan Rachedi,1_Aaron Evans,6,1
+1_Rayan Rachedi,Banished(Episode 7),7,1
+1_Rayan Rachedi,Banished(Episode 7),8,1
+1_Rayan Rachedi,Banished(Episode 7),9,1
+1_Rayan Rachedi,Banished(Episode 7),10,1
+1_Alyssa Chan,1_Nicky Wilding,1,1
+1_Alyssa Chan,1_Aaron Evans,2,1
+1_Alyssa Chan,1_Hannah Byczkowski,3,1
+1_Alyssa Chan,1_Alex Gray,4,1
+1_Alyssa Chan,"1_Wilfred ""Wilf"" Webster",5,1
+1_Alyssa Chan,Banished(Episode 6),6,1
+1_Alyssa Chan,Banished(Episode 6),7,1
+1_Alyssa Chan,Banished(Episode 6),8,1
+1_Alyssa Chan,Banished(Episode 6),9,1
+1_Alyssa Chan,Banished(Episode 6),10,1
+1_Matt Harris,1_Nicky Wilding,1,1
+1_Matt Harris,1_Imran Nasim,2,1
+1_Matt Harris,1_Ivan Brett,3,1
+1_Matt Harris,1_Tom Elderfield,4,1
+1_Matt Harris,Murdered(Episode 6),5,1
+1_Matt Harris,Murdered(Episode 6),6,1
+1_Matt Harris,Murdered(Episode 6),7,1
+1_Matt Harris,Murdered(Episode 6),8,1
+1_Matt Harris,Murdered(Episode 6),9,1
+1_Matt Harris,Murdered(Episode 6),10,1
+1_Tom Elderfield,1_Nicky Wilding,1,1
+1_Tom Elderfield,1_Imran Nasim,2,1
+1_Tom Elderfield,1_Ivan Brett,3,1
+1_Tom Elderfield,1_Alyssa Chan,4,1
+1_Tom Elderfield,Banished(Episode 5),5,1
+1_Tom Elderfield,Banished(Episode 5),6,1
+1_Tom Elderfield,Banished(Episode 5),7,1
+1_Tom Elderfield,Banished(Episode 5),8,1
+1_Tom Elderfield,Banished(Episode 5),9,1
+1_Tom Elderfield,Banished(Episode 5),10,1
+1_John McManus,1_Nicky Wilding,1,1
+1_John McManus,1_Aaron Evans,2,1
+1_John McManus,1_Ivan Brett,3,1
+1_John McManus,Murdered(Episode 5),4,1
+1_John McManus,Murdered(Episode 5),5,1
+1_John McManus,Murdered(Episode 5),6,1
+1_John McManus,Murdered(Episode 5),7,1
+1_John McManus,Murdered(Episode 5),8,1
+1_John McManus,Murdered(Episode 5),9,1
+1_John McManus,Murdered(Episode 5),10,1
+1_Ivan Brett,1_Nicky Wilding,1,1
+1_Ivan Brett,1_Imran Nasim,2,1
+1_Ivan Brett,1_Alex Gray,3,1
+1_Ivan Brett,Banished(Episode 4),4,1
+1_Ivan Brett,Banished(Episode 4),5,1
+1_Ivan Brett,Banished(Episode 4),6,1
+1_Ivan Brett,Banished(Episode 4),7,1
+1_Ivan Brett,Banished(Episode 4),8,1
+1_Ivan Brett,Banished(Episode 4),9,1
+1_Ivan Brett,Banished(Episode 4),10,1
+1_Imran Nasim,1_Nicky Wilding,1,1
+1_Imran Nasim,1_Theo Mayne,2,1
+1_Imran Nasim,Banished(Episode 3),3,1
+1_Imran Nasim,Banished(Episode 3),4,1
+1_Imran Nasim,Banished(Episode 3),5,1
+1_Imran Nasim,Banished(Episode 3),6,1
+1_Imran Nasim,Banished(Episode 3),7,1
+1_Imran Nasim,Banished(Episode 3),8,1
+1_Imran Nasim,Banished(Episode 3),9,1
+1_Imran Nasim,Banished(Episode 3),10,1
+1_Claire Barratt,1_Nicky Wilding,1,1
+1_Claire Barratt,Murdered(Episode 3),2,1
+1_Claire Barratt,Murdered(Episode 3),3,1
+1_Claire Barratt,Murdered(Episode 3),4,1
+1_Claire Barratt,Murdered(Episode 3),5,1
+1_Claire Barratt,Murdered(Episode 3),6,1
+1_Claire Barratt,Murdered(Episode 3),7,1
+1_Claire Barratt,Murdered(Episode 3),8,1
+1_Claire Barratt,Murdered(Episode 3),9,1
+1_Claire Barratt,Murdered(Episode 3),10,1
+1_Nicky Wilding,1_Fay Greaves,1,1
+1_Nicky Wilding,Banished(Episode 2),2,1
+1_Nicky Wilding,Banished(Episode 2),3,1
+1_Nicky Wilding,Banished(Episode 2),4,1
+1_Nicky Wilding,Banished(Episode 2),5,1
+1_Nicky Wilding,Banished(Episode 2),6,1
+1_Nicky Wilding,Banished(Episode 2),7,1
+1_Nicky Wilding,Banished(Episode 2),8,1
+1_Nicky Wilding,Banished(Episode 2),9,1
+1_Nicky Wilding,Banished(Episode 2),10,1
+1_Aisha Birley,Murdered(Episode 2),1,1
+1_Aisha Birley,Murdered(Episode 2),2,1
+1_Aisha Birley,Murdered(Episode 2),3,1
+1_Aisha Birley,Murdered(Episode 2),4,1
+1_Aisha Birley,Murdered(Episode 2),5,1
+1_Aisha Birley,Murdered(Episode 2),6,1
+1_Aisha Birley,Murdered(Episode 2),7,1
+1_Aisha Birley,Murdered(Episode 2),8,1
+1_Aisha Birley,Murdered(Episode 2),9,1
+1_Aisha Birley,Murdered(Episode 2),10,1

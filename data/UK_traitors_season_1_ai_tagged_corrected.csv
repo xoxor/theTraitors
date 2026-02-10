@@ -1,0 +1,23 @@
+Contestant,Age,Residence,Occupation,Affiliation,fname,lname,Finish,Episode,Inferred_Gender,Inferred_Ethnicity,Season,player_id
+Aisha Birley,23,"Manchester, England",Masters Graduate,Faithful,Aisha,Birley,Murdered,2,female,Black/Mixed,1,1_Aisha Birley
+Nicky Wilding,45,"South Croydon, England",Accounts supervisor,Faithful,Nicky,Wilding,Banished,2,female,White,1,1_Nicky Wilding
+Claire Barratt,43,"Hull, England",Ex-police officer & entrepreneur,Faithful,Claire,Barratt,Murdered,3,female,White,1,1_Claire Barratt
+Imran Nasim,23,"Burgess Hill, England",Scientist,Faithful,Imran,Nasim,Banished,3,male,GreaterAfrican/Muslim,1,1_Imran Nasim
+Ivan Brett,32,"Polruan, England",Author,Faithful,Ivan,Brett,Banished,4,male,White,1,1_Ivan Brett
+John McManus,49,"Edinburgh, Scotland",Spa therapist,Faithful,John,McManus,Murdered,5,male,White,1,1_John McManus
+Tom Elderfield,24,"Chesham, England",Magician,Faithful,Tom,Elderfield,Banished,5,male,White,1,1_Tom Elderfield
+Matt Harris,23,"Melbourn, England",BMX Athlete,Faithful,Matt,Harris,Murdered,6,male,White,1,1_Matt Harris
+Alyssa Chan,21,"Cork, Ireland",Business student,Traitor,Alyssa,Chan,Banished,6,female,Asian/Mixed,1,1_Alyssa Chan
+Rayan Rachedi,25,"North London, England",Trainee lawyer,Faithful,Rayan,Rachedi,Banished,7,male,White,1,1_Rayan Rachedi
+Alex Gray,26,"London, England",Presenter & actress,Faithful,Alex,Gray,Murdered,8,female,White,1,1_Alex Gray
+Amos Ogunkoya,30,"North London, England",Doctor,Faithful,Amos,Ogunkoya,Murdered,9,male,Black,1,1_Amos Ogunkoya
+Theo Mayne,26,"Leeds, England",Cheerleading coach,Faithful,Theo,Mayne,Banished,9,male,White,1,1_Theo Mayne
+Fay Greaves,59,"Bury St Edmunds, England",Head of School Welfare,Faithful,Fay,Greaves,Murdered,10,female,Black,1,1_Fay Greaves
+Amanda Lovett,54,"Swansea, Wales",Estate agent,Traitor,Amanda,Lovett,Banished,10,female,White,1,1_Amanda Lovett
+Andrea Addison,72,"Brussels, Belgium",Retired,Faithful,Andrea,Addison,Murdered,11,female,White,1,1_Andrea Addison
+"Madelyn ""Maddy"" Smedley",29,"Swanley, England",Receptionist & actress,Faithful,Madelyn,"""Maddy"" Smedley",Banished,11,female,White,1,"1_Madelyn ""Maddy"" Smedley"
+Kieran Tompsett,42,"Stevenage, England",Solutions consultant,Traitor,Kieran,Tompsett,Banished,12,male,White,1,1_Kieran Tompsett
+"Wilfred ""Wilf"" Webster",28,"North London, England",Senior fundraiser,Traitor,Wilfred,"""Wilf"" Webster",Banished,12,male,White,1,"1_Wilfred ""Wilf"" Webster"
+Aaron Evans,24,"Portsmouth, England",Property agent,Faithful,Aaron,Evans,Winner,12,male,White,1,1_Aaron Evans
+Hannah Byczkowski,32,"London, England",Comedian,Faithful,Hannah,Byczkowski,Winner,12,female,White,1,1_Hannah Byczkowski
+Meryl Williams,25,"Edinburgh, Scotland",Call centre agent,Faithful,Meryl,Williams,Winner,12,female,White,1,1_Meryl Williams

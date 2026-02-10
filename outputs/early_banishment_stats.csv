@@ -1,0 +1,24 @@
+group_type,group_value,season,episode_cutoff,early_banished,percentage_of_early_banishments,early_banished_names
+Inferred_Gender,female,all,4,7,0.4666666666666667,"['Armani Gouveia', 'Clare Balding', 'Elen Wyn', 'Judy Wilson', 'Nicky Wilding', 'Sonja Clarke', 'Tameka Empson']"
+Inferred_Gender,male,all,4,8,0.5333333333333333,"['Brian Davidson', 'Hugo Lodge', 'Imran Nasim', 'Ivan Brett', 'Kasim Ahmed', 'Nathan Khider', 'Niko Omilana', 'Ross Garshong']"
+ethnicity_group,person_of_color,all,4,7,0.4666666666666667,"['Armani Gouveia', 'Imran Nasim', 'Judy Wilson', 'Kasim Ahmed', 'Niko Omilana', 'Ross Garshong', 'Tameka Empson']"
+ethnicity_group,white,all,4,8,0.5333333333333333,"['Brian Davidson', 'Clare Balding', 'Elen Wyn', 'Hugo Lodge', 'Ivan Brett', 'Nathan Khider', 'Nicky Wilding', 'Sonja Clarke']"
+Inferred_Gender,female,1,4,1,0.3333333333333333,['Nicky Wilding']
+Inferred_Gender,male,1,4,2,0.6666666666666666,"['Imran Nasim', 'Ivan Brett']"
+ethnicity_group,person_of_color,1,4,1,0.3333333333333333,['Imran Nasim']
+ethnicity_group,white,1,4,2,0.6666666666666666,"['Ivan Brett', 'Nicky Wilding']"
+Inferred_Gender,female,2,4,1,0.5,['Sonja Clarke']
+Inferred_Gender,male,2,4,1,0.5,['Brian Davidson']
+ethnicity_group,white,2,4,2,1.0,"['Brian Davidson', 'Sonja Clarke']"
+Inferred_Gender,female,3,4,2,0.5,"['Armani Gouveia', 'Elen Wyn']"
+Inferred_Gender,male,3,4,2,0.5,"['Kasim Ahmed', 'Nathan Khider']"
+ethnicity_group,person_of_color,3,4,2,0.5,"['Armani Gouveia', 'Kasim Ahmed']"
+ethnicity_group,white,3,4,2,0.5,"['Elen Wyn', 'Nathan Khider']"
+Inferred_Gender,female,4,4,1,0.3333333333333333,['Judy Wilson']
+Inferred_Gender,male,4,4,2,0.6666666666666666,"['Hugo Lodge', 'Ross Garshong']"
+ethnicity_group,person_of_color,4,4,2,0.6666666666666666,"['Judy Wilson', 'Ross Garshong']"
+ethnicity_group,white,4,4,1,0.3333333333333333,['Hugo Lodge']
+Inferred_Gender,female,C1,4,2,0.6666666666666666,"['Clare Balding', 'Tameka Empson']"
+Inferred_Gender,male,C1,4,1,0.3333333333333333,['Niko Omilana']
+ethnicity_group,person_of_color,C1,4,2,0.6666666666666666,"['Niko Omilana', 'Tameka Empson']"
+ethnicity_group,white,C1,4,1,0.3333333333333333,['Clare Balding']
