@@ -325,7 +325,7 @@ st.info("""
         
         For the purposes of this analysis, the term person of color is used to mean non-white, in accordance with the APA Style guidelines on bias-free language [[APA Style: Racial and Ethnic Identity](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/racial-ethnic-minorities)].
         
-        Every effort was made to cross-reference AI-generated labels with self-identification data where available. This was a personally challenging exercise, and I sincerely welcome any corrections or suggestions to improve accuracy. Full datasets and code are available on [GitHub].
+        Every effort was made to cross-reference AI-generated labels with self-identification data where available. This was a personally challenging exercise, and I sincerely welcome any corrections or suggestions to improve accuracy. Full datasets and code are available on [GitHub](https://github.com/xoxor/theTraitors).
 """)
 
 st.divider()
